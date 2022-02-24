@@ -1,0 +1,36 @@
+body{
+    background-image: url("/img/Kye\ Meh.jpg");
+    background-position: center top;
+    background-size: 100% auto;
+}
+
+.heading{
+    color: white;
+    text-shadow: 0 0 3px #FFFFFF;
+    font-size: 50px;
+    text-align: center;
+    
+}
+.subheading{
+    color: #FFFFFF;
+    font-size: medium;
+    text-align: center;
+}
+
+.square{
+    width: 30px;
+    height: 30px;
+    background-color: #FFFFFF;
+    border-style:solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+.space{
+    height: 100px;
+}
